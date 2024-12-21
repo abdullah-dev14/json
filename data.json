@@ -1,0 +1,37 @@
+[
+    {
+        "id":"001",
+        "username":"Abdullah",
+        "email":"Abdullah@gmail.com",
+        "number":"364862",
+        "password":"323443"
+    },
+    {
+        "id":"002",
+        "username":"Usman",
+        "email":"Usman@gmail.com",
+        "number":"363832",
+        "password":"3223323"
+    },
+    {
+        "id":"003",
+        "username":"Umar",
+        "email":"Umar@gmail.com",
+        "number":"369689",
+        "password":"578323"
+    },
+    {
+        "id":"004",
+        "username":"Ahmed",
+        "email":"Ahmed@gmail.com",
+        "number":"365432",
+        "password":"346823"
+    },
+    {
+        "id":"005",
+        "username":"Arif",
+        "email":"Arif@gmail.com",
+        "number":"354233",
+        "password":"351343"
+    }
+]
